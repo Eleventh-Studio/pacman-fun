@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/masonicGIT/pacman#readme",
   "dependencies": {
+    "next": "^14.2.11",
     "node": "^20.1.0"
   },
   "devDependencies": {
